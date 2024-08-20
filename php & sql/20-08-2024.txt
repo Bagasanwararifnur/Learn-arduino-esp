@@ -1,0 +1,8 @@
+CRATE DATABASES datadump
+USE datadump
+CREATE TABLE datavalue (
+    id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    val INT NOT NULL
+    );
+
+// SQL Database detail
