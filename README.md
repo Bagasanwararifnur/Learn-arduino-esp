@@ -11,3 +11,16 @@
 Problem       : Firewall block access for Apache and Mysql to access public and private network
 Troubleshoot  : Give access to Apache and Mysql 
 </pre>
+
+<h3>21-08-2024</h3>
+<h4>Content</h4>
+<ul>
+  <li>DHT 22 Record</li>
+  <li>LCD 16x2 I2C Display</li>
+  <li>Button INPUT_PULLUP Menu</li>
+</ul>
+  <h4>Notes</h4>
+<pre>Simulation in Wokwi.com (need to do in real-life)
+Problem       : -
+Troubleshoot  : - 
+</pre>
