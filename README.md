@@ -24,3 +24,15 @@ Troubleshoot  : Give access to Apache and Mysql
 Problem       : -
 Troubleshoot  : - 
 </pre>
+
+
+<h3>21-08-2024</h3>
+<h4>Content</h4>
+<ul>
+  <li>Do the same thing like in 21-08-2024 but on real esp32 board</li>
+</ul>
+  <h4>Notes</h4>
+<pre>The sensor value not shown in LCD
+Problem       : Screw loose
+Troubleshoot  : Tighten the screw
+</pre>
