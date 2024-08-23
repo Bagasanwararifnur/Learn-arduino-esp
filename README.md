@@ -31,6 +31,7 @@ Troubleshoot  : -
 <ul>
   <li>Do the same thing like in 21-08-2024 but on real esp32 board</li>
   <li>Minus button menu</li>
+  <li>Using DHT11</li>
 </ul>
   <h4>Notes</h4>
 <pre>The sensor value not shown in LCD
